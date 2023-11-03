@@ -2,11 +2,7 @@
 <img align="center" alt="web-developer" width="100%" src="https://media0.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47x4m0pebytbkjbsct92ikqdt7kglhdzpjb8iqssyz&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
 <p align="justify" style="color: white !important; text-decoration: none !important"> Driven by a deep passion for harnessing data-driven insights to drive informed, strategic decisions within the realm of data engineering. Self-motivated and self-taught in programming with Python, SQL, and other key technologies essential to the field of data engineering, including big data frameworks and ETL processes. With a background in data analysis, I bring a unique blend of technical and business skills to the table.
 
-💡Data Visualization: I excel in creating intuitive data dashboards that help see the bigger picture and monitor systems effectively.
-💡Statistical Analysis: I leverage statistical techniques, including regression and time series analysis, to identify significant variables, predict future trends, and optimize processes.
-💡Actionable Insight: My data engineering approach revolves around turning raw data into valuable insights, going beyond mere reporting. By prioritizing data quality and comprehensive analysis, I help businesses discover hidden opportunities and gain a competitive edge.
-
-Your needs, my solutions. Let's connect! 🤝
+Your needs, my solutions. Let's work together! 🤝
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=titax137&label=Profile%20views&color=0e75b6&style=flat" alt="titax137" /> </p>
