@@ -34,6 +34,6 @@ Your needs, my solutions. Let's work together! 🤝
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=titax137&" alt="titax137" /></p>
 
 <p align="justify" style="color: white !important; text-decoration: none !important">  Meowster in action! 🐱💼 </p>
-<img align="center" alt="web-developer" width="100%" src="https://media0.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47x4m0pebytbkjbsct92ikqdt7kglhdzpjb8iqssyz&ep=v1_gifs_related&rid=giphy.gif&ct=g](https://media2.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e4712h7nl819imnvif3kwahr2z1kjdz6k95o10g0wol&ep=v1_gifs_search&rid=giphy.gif&ct=g)https://media2.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e4712h7nl819imnvif3kwahr2z1kjdz6k95o10g0wol&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+<img align="center" alt="web-developer" width="100%" src="[https://media0.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47x4m0pebytbkjbsct92ikqdt7kglhdzpjb8iqssyz&ep=v1_gifs_related&rid=giphy.gif&ct=g](https://media2.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e4712h7nl819imnvif3kwahr2z1kjdz6k95o10g0wol&ep=v1_gifs_search&rid=giphy.gif&ct=g)https://media2.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e4712h7nl819imnvif3kwahr2z1kjdz6k95o10g0wol&ep=v1_gifs_search&rid=giphy.gif&ct=g"](https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.webp)/>
 <p This is me, working hard to ensure your purr-fect satisfactio! No data leak here, just cat-leak. 😹🐾🖥️ --> </p>
 
