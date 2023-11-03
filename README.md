@@ -17,7 +17,7 @@ Your needs, my solutions. Let's work together! 🤝
 
 - 📫 How to reach me **titarahmawati137@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qSi4kUu3cMHSorGEskOK4WFnpVVHTJdn/view?usp=sharing](https://drive.google.com/file/d/1qSi4kUu3cMHSorGEskOK4WFnpVVHTJdn/view?usp=sharing)
+- 📄 Know about my experiences [click this 🧐](https://drive.google.com/file/d/1qSi4kUu3cMHSorGEskOK4WFnpVVHTJdn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
