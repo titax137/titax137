@@ -34,5 +34,5 @@ Your needs, my solutions. Let's work together! 🤝
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=titax137&" alt="titax137" /></p>
 
 <p align="justify" style="color: white !important; text-decoration: none !important">Meowster in action! 🐱💼</p>
-<img align="center" alt="web-developer" width="100%" src="https://media2.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e4712h7nl819imnvif3kwahr2z1kjdz6k95o10g0wol&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+<img align="center" alt="web-developer" width="50%" src="https://media2.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e4712h7nl819imnvif3kwahr2z1kjdz6k95o10g0wol&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 <p>This is me, working hard to ensure your purr-fect satisfaction! No data leak here, just cat-leak. 😹🐾🖥️</p>
