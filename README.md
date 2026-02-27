@@ -7,11 +7,11 @@ Your needs, my solutions. Let's work together! 🤝
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=titax137&label=Profile%20views&color=0e75b6&style=flat" alt="titax137" /> </p>
 
-- 🔭 I’m currently working in **eFishery**
+- 🔭 [My Web](https://titax137.vercel.app/)
 
 - 🌱 I’m currently learning **Java, Mobile App, AI Engineering**
 
-- 🤝 Hire me [via Upwork](https://www.upwork.com/freelancers/~01cacf95eb12be9dd8)
+- 🤝 Hire me [via Upwork]
 
 - 👨‍💻 All of my projects are available at [https://medium.com/@titax137](https://medium.com/@titax137)
 
