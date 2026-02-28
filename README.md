@@ -7,7 +7,7 @@ Your needs, my solutions. Let's work together! 🤝
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=titax137&label=Profile%20views&color=0e75b6&style=flat" alt="titax137" /> </p>
 
-- 🔭 [My Web](https://titax137.vercel.app/)
+- 🔭 [My Web](https://titax137.com/)
 
 - 🌱 I’m currently learning **Java, Mobile App, AI Engineering**
 
